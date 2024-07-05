@@ -126,7 +126,7 @@ Rust cwels
 ║                        └──│ Email: UNKNOWN                                                                                                              ║
 ║                           │ Reason: Wbita na raidzie                                                                                                    ║
 ║                                                                                                                                                         ║
-║   › [2]:  Jensen				                                                                                                                        ║
+║   › [2]:  Jensen				                                                                                                                          ║
 ║           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                                                                                ║
 ║           ›   [A]: Name: UNKNOWN                                                                                                                        ║
 ║           ›   [A]: Country:United Kingdom                                                                                                               ║
@@ -139,7 +139,7 @@ Rust cwels
 ║                           │ Address Line 1: UNKNOWN                                                                                                     ║
 ║                           │ Reason: Wbita na raidzie                                                                                                    ║
 ║                                                                                                                                                         ║
-║   › [3]:  Krunker God				                                                                                                                    ║
+║   › [3]:  Krunker God				                                                                                                                      ║
 ║           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                                                                                ║
 ║           ›   [A]: Name: UNKNOWN                                                                                                                        ║
 ║           ›   [A]: Country: UNKNOWN                                                                                                                     ║
@@ -152,7 +152,7 @@ Rust cwels
 ║                           │ Address Line 1: UNKNOWN                                                                                                     ║
 ║                           │ Reason: Cos sie faflunił na chacie                                                                                          ║
 ║                                                                                                                                                         ║
-║   › [4]:  .lowsens mp5.dl				                                                                                                                ║
+║   › [4]:  .lowsens mp5.dl				                                                                                                                  ║
 ║           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                                                                                ║
 ║           ›   [A]: Name: Noyan                                                                                                                          ║
 ║           ›   [A]: Country: Turkish                                                                                                                     ║
@@ -165,7 +165,7 @@ Rust cwels
 ║                           │ Address Line 1: UNKNOWN                                                                                                     ║
 ║                           │ Reason: Bazka obok, ssanie fiuta, oddal itemy za free                                                                       ║
 ║                                                                                                                                                         ║
-║   › [5]:  Miura				                                                                                                                          ║        
+║   › [5]:  Miura				                                                                                                                            ║        
 ║           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                                                                                ║
 ║           ›   [A]: Name: Berke                                                                                                                          ║
 ║           ›   [A]: Country: Turkish                                                                                                                     ║
