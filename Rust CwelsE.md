@@ -139,7 +139,7 @@ Rust cwels
 ║                        └──│ Email: UNKNOWN                                                                                                              ║
 ║                           │ Address Line 1: UNKNOWN                                                                                                     ║
 ║                           │ Reason: Wbita na raidzie                                                                                                    ║
-║   › [3]:  Krunker God				                                                                                                          ║
+║   › [3]:  Krunker God				                                                                                                                            ║
 ║           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                                                                                ║
 ║           ›   [A]: Name: UNKNOWN                                                                                                                        ║
 ║           ›   [A]: Country: UNKNOWN                                                                                                                     ║
@@ -153,8 +153,8 @@ Rust cwels
 ║                           │ Reason: Cos sie faflunił na chacie                                                                                          ║
 ║   › [4]:  .lowsens mp5.dl				                                                                                                                        ║
 ║           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                                                                                ║
-║           ›   [A]: Name: UNKNOWN                                                                                                                        ║
-║           ›   [A]: Country: UNKNOWN                                                                                                                     ║
+║           ›   [A]: Name: Noyan                                                                                                                          ║
+║           ›   [A]: Country: Turkish                                                                                                                     ║
 ║           ›   [A]: City: UNKNOWN                                                                                                                        ║
 ║           ›   [A]: Address Line 1: UNKNOWN                                                                                                              ║
 ║           ›   [A]: Zip code: UNKNOWN                                                                                                                    ║
@@ -162,7 +162,7 @@ Rust cwels
 ║                     └──│ Phone Number: UNKNOWN                                                                                                          ║
 ║                        └──│ Email: UNKNOWN                                                                                                              ║
 ║                           │ Address Line 1: UNKNOWN                                                                                                     ║
-║                           │ Reason: Cos sie faflunił na chacie                                                                                          ║
+║                           │ Reason: Bazka obok, ssanie fiuta, oddal itemy za free                                                                       ║
 ╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
 
                     ░█████╗░██╗░░░██╗███████╗██████╗░  ████████╗██╗░░██╗███████╗  ░██████╗██╗░░░░░██╗░░░██╗████████╗░██████╗
