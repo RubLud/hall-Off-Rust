@@ -52,8 +52,8 @@ Rust cwels
 ║    | https://steamcommunity.com/profiles/76561198991388703  |         Gerg             |       Rigga       |  Werewolf EU 3x DUO 64.52.81.45:28027  |   ║
 ║    | https://steamcommunity.com/id/06251651194891236        |         Jensen           |       Rigga       |  Werewolf EU 3x DUO 64.52.81.45:28027  |   ║
 ║    | https://steamcommunity.com/profiles/76561199059455339/ |        Krunker God       |       SULFR       |  Werewolf EU 3x DUO 64.52.81.45:28027  |   ║
-║    |                                                                                                                                                |   ║
-║    |                                                                                                                                                |   ║
+║    | https://steamcommunity.com/profiles/76561198836319953  |     .lowsens mp5.dll     |        011        |  Werewolf EU 5x DUO 64.52.81.45:28017  |   ║                                                                        
+║    | https://steamcommunity.com/id/berkeduzgun              |          Miura           |        011        |                                        |   ║
 ║    |                                                                                                                                                |   ║
 ║    └────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘   ║
 ║                     .                                                                      .            .                                               ║
@@ -127,7 +127,7 @@ Rust cwels
 ║                           │ Reason: Wbita na raidzie                                                                                                    ║
 ║                                                                                                                                                         ║
 ║                                                                                                                                                         ║
-║   › [1]:  Jensen				                                                                                                          ║
+║   › [2]:  Jensen				                                                                                                          ║
 ║           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                                                                                ║
 ║           ›   [A]: Name: UNKNOWN                                                                                                                        ║
 ║           ›   [A]: Country:United Kingdom                                                                                                               ║
@@ -139,7 +139,19 @@ Rust cwels
 ║                        └──│ Email: UNKNOWN                                                                                                              ║
 ║                           │ Address Line 1: UNKNOWN                                                                                                     ║
 ║                           │ Reason: Wbita na raidzie                                                                                                    ║
-║   › [1]:  Krunker God				                                                                                                          ║
+║   › [3]:  Krunker God				                                                                                                          ║
+║           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                                                                                ║
+║           ›   [A]: Name: UNKNOWN                                                                                                                        ║
+║           ›   [A]: Country: UNKNOWN                                                                                                                     ║
+║           ›   [A]: City: UNKNOWN                                                                                                                        ║
+║           ›   [A]: Address Line 1: UNKNOWN                                                                                                              ║
+║           ›   [A]: Zip code: UNKNOWN                                                                                                                    ║
+║           »   [A]: Numbers:                                                                                                                             ║
+║                     └──│ Phone Number: UNKNOWN                                                                                                          ║
+║                        └──│ Email: UNKNOWN                                                                                                              ║
+║                           │ Address Line 1: UNKNOWN                                                                                                     ║
+║                           │ Reason: Cos sie faflunił na chacie                                                                                          ║
+║   › [4]:  .lowsens mp5.dl				                                                                                                                        ║
 ║           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                                                                                ║
 ║           ›   [A]: Name: UNKNOWN                                                                                                                        ║
 ║           ›   [A]: Country: UNKNOWN                                                                                                                     ║
