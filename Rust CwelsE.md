@@ -165,7 +165,7 @@ Rust cwels
 ║                           │ Address Line 1: UNKNOWN                                                                                                     ║
 ║                           │ Reason: Bazka obok, ssanie fiuta, oddal itemy za free                                                                       ║
 ║                                                                                                                                                         ║
-║   › [5]:  Miura				                                                                                                                            ║        
+║   › [5]:  Miura				                                                                                                                          ║        
 ║           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾                                                                                                                ║
 ║           ›   [A]: Name: Berke                                                                                                                          ║
 ║           ›   [A]: Country: Turkish                                                                                                                     ║
